@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-<img align="right"=alt="coding"=width="400"![image](https://github.com/Aliakbar57/Aliakbar57/assets/136628435/b0cc203c-3fd1-4660-94b4-0a98a9745e09)>
+![image](https://github.com/Aliakbar57/Aliakbar57/assets/136628435/b0cc203c-3fd1-4660-94b4-0a98a9745e09)>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliakbar57" alt="aliakbar57" /></a> </p>
