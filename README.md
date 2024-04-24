@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Akbar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-    <img align="right"=alt"coding"="width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif
+<img align="right"=alt"coding"="width="400"src="![image](https://github.com/Aliakbar57/Aliakbar57/assets/136628435/4eeb7d09-c057-41f9-8acc-6a8ec42570d1)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliakbar57&label=Profile%20views&color=0e75b6&style=flat" alt="aliakbar57" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliakbar57" alt="aliakbar57" /></a> </p>
